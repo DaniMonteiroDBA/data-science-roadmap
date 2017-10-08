@@ -38,6 +38,14 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # I
 
+**Intervalo de Confiança**:  Um intervalo de confiança para um parâmetro populacional é um intervalo com uma proporção p associada gerada por uma amostra aleatória de uma população subjacente, de tal forma que se o experimento for repetido várias vezes e o intervalo de confiança for recalculado para cada experimento com mesmo procedimento, uma proporção p dos intervalos de confiança conteria o parâmetro estatístico em questão.
+Os intervalos de confiança são usados para indicar a confiabilidade de uma estimativa. Por exemplo, o intervalo de confiança pode ser usado para descrever o quão confiáveis são os resultados de uma pesquisa (uma pesquisa com intervalo de confiança menor é mais confiável que uma pesquisa com intervalo de confiança maior). O intervalo de confiança com nível de confiança de 95% é o mais comum e significa que o resultado está dentro do intervalo de 95 dos 100 estudos hipoteticamente realizados (a leitura correta é que o resultado está dentro do intervalo de confiança em 95 das 100 amostras realizadas).
+Os intervalos de confiança são a forma predominante de estimativa por intervalo, que pode ser contrastada com estimativa pontual corresponde ao valor único dado como a estimativa de um parâmetro da população de interesse. A estimativa por intervalo especifica um intervalo dentro do qual o parâmetro deve estar. Os intervalos de confiança são comumente reportados como tabelas ou gráficos juntamente com estimativas pontuais do mesmo parâmetro para mostrar a confiabilidade das estimativas. 
+Por exemplo, de acordo com uma pesquisa sobre intenção de votos, 40% dos entrevistados pretendem votar em um certo partido. É possível calcular um intervalo de confiança de 99% para a proporção de toda a população com a mesma intenção de voto, que pode ficar entre 30% e 50%. Também é possível calcular um intervalo de confiança de 90% para a proporção de toda a população com a mesma intenção de voto, que neste caso pode ficar entre 37% e 43%. Um importante fator que determina o comprimento de um intervalo de confiança é o tamanho da amostra usado no processo de estimativa. Por exemplo, o número de pessoas que participaram da pesquisa.
+
+[Wikipedia – Intevalo de Confiança] (https://pt.wikipedia.org/wiki/Intervalo_de_confian%C3%A7a#Defini.C3.A7.C3.A3o_informal)
+
+
 # J
 
 # K
@@ -86,9 +94,6 @@ quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 **Variáveis Categóricas**: variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a varivel é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
 
-**Variáveis Discretas**: variável que possui valor quantitativo, ou seja, que pode ser contado. Em outras palavras, são variáveis com características mensuráveis que podem assumir apenas um número finito ou infinito contável de valores e, assim, somente fazem sentido valores inteiros. Geralmente são o resultado de contagens. Exemplos: número de filhos, número de bactérias por litro de leite. [Tipos de Variáveis] (http://leg.ufpr.br/~silvia/CE055/node8.html)
-
-
 **Vetor**: Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo.[1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure)
 
 # X
@@ -125,4 +130,4 @@ Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistica
 
 Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
 
-http://leg.ufpr.br/~silvia/CE055/node8.html
+https://pt.wikipedia.org/wiki/Intervalo_de_confian%C3%A7a#Defini.C3.A7.C3.A3o_informal
